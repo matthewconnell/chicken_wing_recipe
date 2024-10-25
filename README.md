@@ -1,4 +1,4 @@
-# Office hours chicken wings
+# office hours chicken wings
 
 This is a collaborative recipe for chicken wings, and it's delicious. 
 
